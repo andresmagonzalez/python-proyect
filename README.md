@@ -1,2 +1,2 @@
 # pythonproyects
-python proyect
+Diversos ejercicios de python resueltos
