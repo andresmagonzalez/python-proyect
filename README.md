@@ -1,2 +1,2 @@
-# mchnlrng-proyect
-machine learning proyect
+# pythonproyects
+python proyect
